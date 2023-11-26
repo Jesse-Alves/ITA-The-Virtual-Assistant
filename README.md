@@ -47,7 +47,7 @@ Introducing ITA, a versatile virtual assistant designed to streamline operationa
 
 <div align="center">
   <a href=" ">
-    <img src="images/img1.jpg" width="375" height="250" />
+    <img src="images/img1.JPG" width="400" />
   </a>
 </div>
 
