@@ -25,7 +25,8 @@
 <br />
 <div align="center">
   <a href="https://healthtech.unistra.fr/">
-    <img src="images/logo.JPG" alt="Logo" width="720" height="120">
+    <img src="images/logo1.png" alt="Logo" height="100">
+    <img src="images/logo2.png" alt="Logo" height="100">
   </a>
 
   <h1 align="center">ITA - The Virtual Assistant</h1>
