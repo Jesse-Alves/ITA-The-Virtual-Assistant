@@ -52,7 +52,7 @@ Introducing ITA, a versatile virtual assistant designed to streamline operationa
 
 
 ### Built With
-* [![Python](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!-- CONTACT -->
